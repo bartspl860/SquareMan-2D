@@ -1,0 +1,387 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: fighting knife
+  m_EditorClassIdentifier: 
+  hashCode: -1172291909
+  material: {fileID: 760607935306646405}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  spriteSheet: {fileID: 2800000, guid: 50b0f15a6bade674698167dc1065060f, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: fighting knife_0
+    m_HashCode: -1020600588
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: fighting knife_1
+    m_HashCode: -1020600587
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: fighting knife_2
+    m_HashCode: -1020600586
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: fighting knife_3
+    m_HashCode: -1020600585
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 4
+    m_Scale: 1
+    m_Name: fighting knife_4
+    m_HashCode: -1020600592
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 5
+    m_Scale: 1
+    m_Name: fighting knife_5
+    m_HashCode: -1020600591
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 6
+    m_Scale: 1
+    m_Name: fighting knife_6
+    m_HashCode: -1020600590
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 7
+    m_Scale: 1
+    m_Name: fighting knife_7
+    m_HashCode: -1020600589
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 8
+    m_Scale: 1
+    m_Name: fighting knife_8
+    m_HashCode: -1020600580
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 9
+    m_Scale: 1
+    m_Name: fighting knife_9
+    m_HashCode: -1020600579
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 10
+    m_Scale: 1
+    m_Name: fighting knife_10
+    m_HashCode: 679919013
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 11
+    m_Scale: 1
+    m_Name: fighting knife_11
+    m_HashCode: 679919012
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 12
+    m_Scale: 1
+    m_Name: fighting knife_12
+    m_HashCode: 679919015
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 13
+    m_Scale: 1
+    m_Name: fighting knife_13
+    m_HashCode: 679919014
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 14
+    m_Scale: 1
+    m_Name: fighting knife_14
+    m_HashCode: 679919009
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 2
+      m_Y: 272
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -7592725478337286991, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 50
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 71
+      m_Y: 272
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 5
+    m_AtlasIndex: 0
+    sprite: {fileID: 5617671097446026707, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 140
+      m_Y: 272
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 4261204543119441341, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: 19
+      m_HorizontalBearingY: 50
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 209
+      m_Y: 272
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 3
+    m_AtlasIndex: 0
+    sprite: {fileID: 3978773390437835829, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 278
+      m_Y: 272
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -2673247817177167735, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 5
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 2
+      m_Y: 187
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 1435549683911248471, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 6
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 71
+      m_Y: 187
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 2946889448918130388, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 7
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 140
+      m_Y: 187
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -1004483424405074816, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 8
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 209
+      m_Y: 187
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 7137551270593827218, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 9
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 278
+      m_Y: 187
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 5129182461442851436, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 10
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 140
+      m_Y: 102
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -5353677484785855994, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 11
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 209
+      m_Y: 102
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -5718159522734060003, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 12
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 278
+      m_Y: 102
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 4770488422802046752, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 13
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 2
+      m_Y: 17
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -2865493534373311769, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  - m_Index: 14
+    m_Metrics:
+      m_Width: 68
+      m_Height: 84
+      m_HorizontalBearingX: -34
+      m_HorizontalBearingY: 42
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 71
+      m_Y: 17
+      m_Width: 68
+      m_Height: 84
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -6345192007265415558, guid: 50b0f15a6bade674698167dc1065060f,
+      type: 3}
+  spriteInfoList: []
+  fallbackSpriteAssets: []
+--- !u!21 &760607935306646405
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 50b0f15a6bade674698167dc1065060f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
